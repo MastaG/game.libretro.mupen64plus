@@ -1,0 +1,1 @@
+mupen64plus_next https://github.com/libretro/mupen64plus-libretro-nx/archive/f68044fe275ef49ea142a304af873aa08aca78a3.zip
