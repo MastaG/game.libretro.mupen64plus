@@ -41,8 +41,8 @@
 		<setting label="30038" type="select" id="mupen64plus-pak3" values="none|memory|rumble" default="none"/>
 		<setting label="30039" type="select" id="mupen64plus-pak4" values="none|memory|rumble" default="none"/>
 		<setting label="30040" type="select" id="mupen64plus-r-cbutton" values="C1|C2|C3|C4" default="C1"/>
-		<setting label="30041" type="select" id="mupen64plus-rdp-plugin" values="gliden64" default="gliden64"/>
-		<setting label="30042" type="select" id="mupen64plus-rsp-plugin" values="hle" default="hle"/>
+		<setting label="30041" type="select" id="mupen64plus-rdp-plugin" values="gliden64|angrylion" default="gliden64"/>
+		<setting label="30042" type="select" id="mupen64plus-rsp-plugin" values="hle|parallel|cxd4" default="hle"/>
 		<setting label="30043" type="select" id="mupen64plus-txCacheCompression" values="True|False" default="True"/>
 		<setting label="30044" type="select" id="mupen64plus-txEnhancementMode" values="None|As Is|X2|X2SAI|HQ2X|HQ2XS|LQ2X|LQ2XS|HQ4X|2xBRZ|3xBRZ|4xBRZ|5xBRZ|6xBRZ" default="None"/>
 		<setting label="30045" type="select" id="mupen64plus-txFilterIgnoreBG" values="True|False" default="True"/>
