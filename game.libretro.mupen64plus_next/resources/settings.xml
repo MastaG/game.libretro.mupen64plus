@@ -13,7 +13,7 @@
 		<setting label="30010" type="select" id="mupen64plus-CountPerOp" values="0|1|2|3" default="0"/>
 		<setting label="30011" type="select" id="mupen64plus-cpucore" values="dynamic_recompiler|cached_interpreter|pure_interpreter" default="dynamic_recompiler"/>
 		<setting label="30012" type="select" id="mupen64plus-d-cbutton" values="C3|C4|C1|C2" default="C3"/>
-		<setting label="30013" type="select" id="mupen64plus-EnableCopyColorToRDRAM" values="Async|Sync|Off" default="Async"/>
+		<setting label="30013" type="select" id="mupen64plus-EnableCopyColorToRDRAM" values="Off|Async|Sync" default="Off"/>
 		<setting label="30014" type="select" id="mupen64plus-EnableCopyDepthToRDRAM" values="Software|FromMem|Off" default="Sotware"/>
 		<setting label="30015" type="select" id="mupen64plus-EnableEnhancedHighResStorage" values="False|True" default="False"/>
 		<setting label="30016" type="select" id="mupen64plus-EnableEnhancedTextureStorage" values="False|True" default="False"/>

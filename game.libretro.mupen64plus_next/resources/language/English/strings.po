@@ -21,133 +21,201 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "16:9 Resolution"
+msgid "(GLN64) 16:9 Resolution"
 msgstr ""
 
 msgctxt "#30002"
-msgid "4:3 Resolution"
+msgid "(GLN64) 4:3 Resolution"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Bilinear filtering mode"
+msgid "Independent C-button Controls"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Continuous texrect coords"
+msgid "(GLN64) Aspect Ratio"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Count Per Op"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Crop Mode"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Color buffer to RDRAM"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Depth buffer to RDRAM"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Framebuffer Emulation"
-msgstr ""
-
-msgctxt "#30010"
-msgid "GPU shader depth write"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Hardware per-pixel lighting"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Less accurate blending mode"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Native res. 2D texrects"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Cache GPU Shaders"
-msgstr ""
-
-msgctxt "#30015"
-msgid "MSAA level"
-msgstr ""
-
-msgctxt "#30016"
-msgid "Aspect Ratio"
-msgstr ""
-
-msgctxt "#30017"
 msgid "Analog Deadzone (percent)"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30006"
 msgid "Analog Sensitivity (percent)"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30007"
+msgid "(GLN64) Background Mode"
+msgstr ""
+
+msgctxt "#30008"
+msgid "(GLN64) Bilinear filtering mode"
+msgstr ""
+
+msgctxt "#30009"
+msgid "(GLN64) Continuous texrect coords"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Count Per Op"
+msgstr ""
+
+msgctxt "#30011"
 msgid "CPU Core"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30012"
 msgid "Down C Button"
 msgstr ""
 
+msgctxt "#30013"
+msgid "(GLN64) Color buffer to RDRAM"
+msgstr ""
+
+msgctxt "#30014"
+msgid "(GLN64) Depth buffer to RDRAM"
+msgstr ""
+
+msgctxt "#30015"
+msgid "(GLN64) Use enhanced Hi-Res Storage"
+msgstr ""
+
+msgctxt "#30016"
+msgid "(GLN64) Use enhanced Texture Storage"
+msgstr ""
+
+msgctxt "#30017"
+msgid "(GLN64) Framebuffer Emulation"
+msgstr ""
+
+msgctxt "#30018"
+msgid "(GLN64) GPU shader depth write"
+msgstr ""
+
+msgctxt "#30019"
+msgid "(GLN64) Hardware per-pixel lighting"
+msgstr ""
+
+msgctxt "#30020"
+msgid "(GLN64) Less accurate blending mode"
+msgstr ""
+
 msgctxt "#30021"
-msgid "Left C Button"
+msgid "(GLN64) LOD Emulation"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Player 1 Pak"
+msgid "(GLN64) Native res. 2D texrects"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Player 2 Pak"
+msgid "(GLN64) Overscan"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Player 3 Pak"
+msgid "(GLN64) Cache Textures"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Player 4 Pak"
+msgid "Disable Expansion Pak"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Right C Button"
+msgid "Frame Duplication"
 msgstr ""
 
 msgctxt "#30027"
-msgid "RSP Mode"
+msgid "Framerate"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Texture Enhancement"
+msgid "(GLN64) FXAA"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Filter background textures"
+msgid "Left C Button"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Texture filter"
+msgid "(GLN64) Max texture cache size"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Use High-Res textures"
+msgid "(GLN64) Noise Emulation"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Use High-Res Full Alpha Channel"
+msgid "(GLN64) Overscan Offset (Bottom)"
 msgstr ""
 
 msgctxt "#30033"
+msgid "(GLN64) Overscan Offset (Left)"
+msgstr ""
+
+msgctxt "#30034"
+msgid "(GLN64) Overscan Offset (Right)"
+msgstr ""
+
+msgctxt "#30035"
+msgid "(GLN64) Overscan Offset (Top)"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Player 1 Pak"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Player 2 Pak"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Player 3 Pak"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Player 4 Pak"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Right C Button"
+msgstr ""
+
+msgctxt "#30041"
+msgid "RDP Mode"
+msgstr ""
+
+msgctxt "#30042"
+msgid "RSP Mode"
+msgstr ""
+
+msgctxt "#30043"
+msgid "(GLN64) Use High-Res Texture Cache Compression"
+msgstr ""
+
+msgctxt "#30044"
+msgid "(GLN64) Texture Enhancement"
+msgstr ""
+
+msgctxt "#30045"
+msgid "(GLN64) Filter background textures"
+msgstr ""
+
+msgctxt "#30046"
+msgid "(GLN64) Texture filter"
+msgstr ""
+
+msgctxt "#30047"
+msgid "(GLN64) Use High-Res textures"
+msgstr ""
+
+msgctxt "#30048"
+msgid "(GLN64) Use High-Res Full Alpha Channel"
+msgstr ""
+
+msgctxt "#30049"
 msgid "Up C Button"
+msgstr ""
+
+msgctxt "#30050"
+msgid "VI Refresh (Overclock)"
 msgstr ""
